@@ -1,1 +1,8 @@
 /* Name, Date */
+th{
+    text-decoration: underline;
+}
+table, th, td {
+    border: 1px solid;
+  }
+  
