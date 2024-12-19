@@ -1,8 +1,39 @@
 /* Name, Date */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 th{
     text-decoration: underline;
 }
+
 table, th, td {
     border: 1px solid;
   }
-  
+
+  body {
+       font-family: "Roboto Condensed", serif;
+
+  }
+
+  hr{
+    color: black;
+    background-color: black; 
+    height: 2px;
+  }
+
+
+  h2{
+    text-decoration: underline;
+  }
+  h1{
+    text-decoration: underline;
+  }
+  body{
+    background-image: url("https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910");
+    background-image: no-repeat;
+    background-size: cover;
+  }
+.bio, .header {
+    background-color: rgba(46, 139, 87,0.8);
+}
+.header {
+    width: 300px;
+}
