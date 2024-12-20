@@ -33,6 +33,9 @@ table, th, td {
   }
 .bio, .header {
     background-color: rgba(46, 139, 87,0.8);
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 5px darkgreen;
 }
 .header {
     width: 300px;
